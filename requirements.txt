@@ -1,0 +1,6 @@
+streamlit
+numpy
+random
+nltk
+tensorflow
+json
