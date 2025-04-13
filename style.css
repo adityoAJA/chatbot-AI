@@ -1,0 +1,155 @@
+/* Mengubah ukuran teks pada tab */
+.stTabs [data-baseweb="tab"] {
+        font-size: 20px;
+        padding: 10px 20px; /* Menambahkan padding */
+        border-radius: 10px; /* Membuat sudut tab menjadi halus */
+    }
+    
+    /* Memberikan warna latar belakang pada tab */
+    .stTabs [data-baseweb="tab"]:first-child {
+        background-color: #ededed;
+    }
+    .stTabs [data-baseweb="tab"]:nth-child(2) {
+        background-color: #ededed;
+    }
+    .stTabs [data-baseweb="tab"]:nth-child(3) {
+        background-color: #ededed;
+    }
+    
+    /* Memberikan warna latar belakang pada tab yang aktif */
+    .stTabs [data-baseweb="tab"][aria-selected="true"] {
+        background-color: #029118;
+        color: white;
+    }
+    
+    /* Memusatkan konten halaman */
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    padding: 20px; /* Optional padding for better visual appearance */
+}
+
+/* Styling the sidebar */
+.sidebar-content {
+    background-color: #fafafa;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+}
+
+/* Styling the main container */
+.main-container {
+    background-color: #ededed;
+    padding: 20px;
+}
+
+/* Customizing buttons */
+.stButton button {
+    background-color: #4e66de; /* Green background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 10px 15px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Get it to line up correctly */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    transition-duration: 0.4s; /* Add transition for hover effect */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.stDownloadButton button {
+    background-color:  #4e66de;
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 10px 15px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Get it to line up correctly */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    transition-duration: 0.4s; /* Add transition for hover effect */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.stLink_Button button {
+    background-color:  #4e66de;
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 10px 15px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Get it to line up correctly */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    transition-duration: 0.4s; /* Add transition for hover effect */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.stButton button:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4e66de;
+}
+
+.stDownloadButton button:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4e66de;
+}
+
+.stLink_Button button:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4e66de;
+}
+
+/* Customizing input fields */
+.stTextInput input {
+    padding: 10px;
+    border: 2px solid #efefef;
+    border-radius: 4px;
+}
+
+/* Styling the header */
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+    color: #333;
+}
+
+h1 {
+    font-size: 3em;
+    /* text-decoration: underline; /* Menambahkan garis bawah */
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+/* Customizing tables */
+.stDataFrame {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+.stDataFrame th, .stDataFrame td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #656565;
+}
+
+/* Customizing links */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
