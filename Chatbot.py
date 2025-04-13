@@ -29,13 +29,14 @@ stemmer = LancasterStemmer()
 
 # Load dataset and model
 try:
-with open('chatbot.json') as file:
-    data = json.load(file)
+        with open('chatbot.json') as file:
+            data = json.load(file)
 
-model = tf.keras.models.load_model('chatbot_PI_new.keras')
+        model = tf.keras.models.load_model('chatbot_PI_new.keras')
 except Exception as e:
-st.error(f"Error loading model: {e}")
-st.stop()  # Stop execution if the model can't be loaded
+
+        st.error(f"Error loading model: {e}")
+        st.stop()  # Stop execution if the model can't be loaded
 
 # Prepare data
 words = []
