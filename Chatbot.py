@@ -27,7 +27,7 @@ st.write(f'Halo *{name}*, Selamat Datang')
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt', download_dir=os.path.expanduser("~") + "/nltk_data")
+    nltk.download('punkt')
 
 from nltk.stem import LancasterStemmer
 
