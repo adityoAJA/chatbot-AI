@@ -23,7 +23,7 @@ with open("style.css") as f:
 name = "Pengguna"  # Ganti dengan nama dari input user jika perlu
 st.write(f'Halo *{name}*, Selamat Datang')
 
-# download modul hanya jika belum tersedia
+# Download modul hanya jika belum tersedia
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
@@ -38,9 +38,15 @@ stemmer = LancasterStemmer()
 try:
     with open('chatbot.json') as file:
         data = json.load(file)
-    model = tf.keras.models.load_model('chatbot_PI_new.keras')
+    
+    # Check if model file exists
+    if os.path.exists('chatbot_PI_new.keras'):
+        model = tf.keras.models.load_model('chatbot_PI_new.keras')
+        print("Model loaded successfully")
+    else:
+        raise FileNotFoundError("Model file 'chatbot_PI_new.keras' not found.")
 except Exception as e:
-    st.error(f"Error loading model: {e}")
+    st.error(f"Error loading model: {e}. Please check the file path and model format.")
     st.stop()  # Stop execution if the model can't be loaded
 
 # Prepare data
@@ -149,7 +155,8 @@ if prompt := st.chat_input("Silahkan ketik pertanyaan anda di sini.."):
     # Tampilkan respons dengan efek streaming
     with st.chat_message("assistant"):
         response_stream = response_generator(response)
-        st.write_stream(response_stream)
+        for word in response_stream:
+            st.markdown(word, unsafe_allow_html=True)
 
     # Simpan respons ke riwayat chat
     st.session_state.messages.append({"role": "assistant", "content": response})
