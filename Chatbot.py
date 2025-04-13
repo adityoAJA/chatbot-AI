@@ -24,13 +24,10 @@ name = "Pengguna"  # Ganti dengan nama dari input user jika perlu
 st.write(f'Halo *{name}*, Selamat Datang')
 
 # Download modul hanya jika belum tersedia
-nltk_data_path = os.path.expanduser("~") + "/nltk_data"
-if not os.path.exists(nltk_data_path):
-    os.makedirs(nltk_data_path)
 try:
-    nltk.data.find('tokenizers/punkt', paths=[nltk_data_path])
+    nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt', download_dir=nltk_data_path)
+    nltk.download('punkt', download_dir=os.path.expanduser("~") + "/nltk_data")
 
 from nltk.stem import LancasterStemmer
 
