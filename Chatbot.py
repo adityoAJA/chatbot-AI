@@ -4,7 +4,8 @@ import numpy as np
 import random
 import nltk
 import tensorflow as tf
-import time  # Tambahkan ini untuk time.sleep()
+import time
+import os
 
 # Set layout
 st.set_page_config(
@@ -22,8 +23,12 @@ with open("style.css") as f:
 name = "Pengguna"  # Ganti dengan nama dari input user jika perlu
 st.write(f'Halo *{name}*, Selamat Datang')
 
-# download modul
-nltk.download('punkt')
+# download modul hanya jika belum tersedia
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt', download_dir=os.path.expanduser("~") + "/nltk_data")
+
 from nltk.stem import LancasterStemmer
 
 # Initialize stemmer
