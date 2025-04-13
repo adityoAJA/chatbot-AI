@@ -14,7 +14,7 @@ st.set_page_config(
     )
 
 # Membaca file CSS
-with open("data/style.css") as f:
+with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Judul
@@ -29,10 +29,10 @@ stemmer = LancasterStemmer()
 
 # Load dataset and model
 try:
-with open('chatbot/chatbot.json') as file:
+with open('chatbot.json') as file:
     data = json.load(file)
 
-model = tf.keras.models.load_model('chatbot\chatbot_PI_new.keras')
+model = tf.keras.models.load_model('chatbot_PI_new.keras')
 except Exception as e:
 st.error(f"Error loading model: {e}")
 st.stop()  # Stop execution if the model can't be loaded
