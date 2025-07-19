@@ -9,7 +9,16 @@
         "Apa kabar?",
         "Selamat pagi",
         "Selamat sore",
-        "Selamat malam"
+        "Selamat malam",
+        "Permisi",
+        "Bisa bicara dengan Samudra?",
+        "Halo bot",
+        "Selamat siang",
+        "Ada orang?",
+        "Hei",
+        "Bisakah kamu membantuku?",
+        "Hai Samudra",
+        "Halo Samudra"
       ],
       "responses": [
         "Halo sobat samudra, saya siap bisa membantu anda hari ini",
@@ -32,10 +41,22 @@
         "kenapa permukaan laut naik",
         "apa penyebab sea level rise",
         "jelaskan sea level rise",
-        "kenapa air laut naik"
+        "kenapa air laut naik",
+        "Apa definisi SLR?",
+        "Apa yang menyebabkan air laut naik?",
+        "Pengertian kenaikan muka laut",
+        "Apa definisi tinggi muka air laut?",
+        "TML artinya apa?",
+        "Definisi singkat TML",
+        "Maksud dari Sea Level Rise",
+        "Apa itu peningkatan permukaan laut?",
+        "Berikan pengertian SLR",
+        "SLR itu singkatan dari apa?",
+        "Kenapa muka laut bisa naik?",
+        "Apa itu TML secara detail?"
       ],
       "responses": [
-        "Tinggi muka laut atau Sea Level Rise adalah peningkatan rata-rata tinggi permukaan laut di seluruh dunia yang terjadi saat ini. Permukaan laut bisa naik karena es di kutub mencair atau suhu laut makin panas. Kalau tinggi muka laut naik, bisa terjadi banjir rob dan sebagian wilayah pesisir bisa tenggelam."
+        "Tinggi muka laut atau Sea Level Rise adalah peningkatan rata-rata tinggi permukaan laut di seluruh dunia yang terjadi saat ini./n/nPermukaan laut bisa naik karena es di kutub mencair atau suhu laut makin panas. Kalau tinggi muka laut naik, bisa terjadi banjir rob dan sebagian wilayah pesisir bisa tenggelam."
       ]
     },
     {
@@ -45,11 +66,26 @@
         "jenis sea level rise",
         "macam istilah tinggi muka laut",
         "steric dan barystatic itu apa",
-        "bedanya sea level rise global dan lokal"
+        "bedanya sea level rise global dan lokal",
+        "ada berapa jenis tml?",
+        "sebutkan jenis-jenis tinggi muka laut",
+        "apa saja tipe-tipe SLR?",
+        "jelaskan perbedaan steric dan barystatic",
+        "apa saja kategori kenaikan muka laut?",
+        "Variasi tinggi muka laut",
+        "Pembagian SLR",
+        "Model kenaikan muka laut",
+        "Jenis-jenis TML yang utama",
+        "Kategori SLR",
+        "Apakah ada jenis-jenis TML lain?",
+        "Macam-macam kenaikan muka air laut",
+        "Perbedaan GMSL dan RSL",
+        "Jelaskan tentang steric SLR",
+        "Jelaskan tentang barystatic SLR",
+        "Jenis SLR apa saja yang ada?"
       ],
       "responses": [
-        "Terdapat beberapa jenis SLR: (1) **Steric** akibat pemuaian air laut karena pemanasan (termosterik), (2) **Barystatic** akibat bertambahnya massa air laut karena mencairnya es, dan (3) **Relatif** yaitu tinggi laut terhadap daratan lokal, bisa dipengaruhi oleh penurunan daratan (subsiden) atau naiknya daratan.",
-        "Sea Level Rise bisa bersifat global atau lokal. Secara global disebut **GMSL** (Global Mean Sea Level), sedangkan secara lokal disebut **RSL** (Relative Sea Level), tergantung pada posisi dan pergerakan daratan juga."
+        "Terdapat beberapa jenis SLR: (1) **Steric** akibat pemuaian air laut karena pemanasan (termosterik), (2) **Barystatic** akibat bertambahnya massa air laut karena mencairnya es, dan (3) **Relatif** yaitu tinggi laut terhadap daratan lokal, bisa dipengaruhi oleh penurunan daratan (subsiden) atau naiknya daratan./n/nSea Level Rise bisa bersifat global atau lokal. Secara global disebut **GMSL** (Global Mean Sea Level), sedangkan secara lokal disebut **RSL** (Relative Sea Level), tergantung pada posisi dan pergerakan daratan juga."
       ]
     },
     {
@@ -58,10 +94,26 @@
         "bagaimana cara adaptasi terhadap kenaikan tinggi muka laut?",
         "strategi adaptasi wilayah pesisir",
         "apa yang bisa dilakukan untuk beradaptasi dengan banjir rob?",
-        "bagaimana melakukan adaptasi terhadap kenaikan tml"
+        "bagaimana melakukan adaptasi terhadap kenaikan tml",
+        "cara mengatasi dampak tml",
+        "solusi untuk wilayah pesisir dari tml",
+        "bagaimana menyesuaikan diri dengan kenaikan muka laut?",
+        "upaya adaptasi apa saja?",
+        "strategi menghadapi banjir rob",
+        "langkah adaptasi di pesisir",
+        "Tindakan adaptasi terhadap SLR",
+        "Bagaimana komunitas pesisir beradaptasi?",
+        "Contoh adaptasi TML",
+        "Pendekatan adaptif untuk kenaikan muka air laut",
+        "Kiat adaptasi TML",
+        "Cara beradaptasi dengan SLR",
+        "Apa saja upaya penyesuaian diri terhadap TML?",
+        "Bagaimana masyarakat pesisir bisa bertahan dari TML?",
+        "Solusi adaptif TML",
+        "Program adaptasi TML"
       ],
       "responses": [
-        "Beberapa strategi adaptasi terhadap kenaikan tinggi muka laut antara lain adalah membangun tanggul atau sabuk hijau mangrove, merelokasi pemukiman di wilayah rawan, dan meningkatkan sistem peringatan dini. Adaptasi lokal yang berbasis masyarakat sangat penting dalam upaya ini."
+        "Beberapa strategi adaptasi terhadap kenaikan tinggi muka laut antara lain adalah membangun tanggul atau sabuk hijau mangrove, merelokasi pemukiman di wilayah rawan, dan meningkatkan sistem peringatan dini./n/nAdaptasi lokal yang berbasis masyarakat sangat penting dalam upaya ini."
       ]
     },
     {
@@ -71,7 +123,22 @@
         "bagaimana cara mengurangi dampak perubahan iklim?",
         "mitigasi perubahan iklim di wilayah pesisir",
         "bagaimana mitigasi wilayah terkait tml",
-        "cara mitigasi wilayah pesisir terdampak naiknya tml"
+        "cara mitigasi wilayah pesisir terdampak naiknya tml",
+        "langkah mengurangi emisi gas rumah kaca",
+        "apa yang bisa dilakukan untuk mencegah dampak tml?",
+        "upaya mitigasi apa saja?",
+        "bagaimana mencegah kenaikan muka air laut?",
+        "cara menanggulangi dampak perubahan iklim",
+        "Tindakan mitigasi SLR",
+        "Bagaimana mengurangi SLR?",
+        "Solusi untuk mengurangi kenaikan muka laut",
+        "Kebijakan mitigasi TML",
+        "Peran mitigasi dalam mengatasi TML",
+        "Upaya mengurangi penyebab TML",
+        "Cara meminimalkan dampak kenaikan muka laut",
+        "Mitigasi emisi gas rumah kaca",
+        "Apa yang bisa dilakukan untuk meminimalisir TML?",
+        "Dampak mitigasi terhadap TML"
       ],
       "responses": [
         "Mitigasi dapat dilakukan dengan mengurangi emisi gas rumah kaca, memperkuat kebijakan tata ruang pesisir, serta menjaga ekosistem pesisir seperti hutan mangrove dan terumbu karang yang membantu menahan abrasi."
@@ -84,7 +151,22 @@
         "kenapa kita harus khawatir dengan naiknya muka laut?",
         "resiko dari banjir rob dan intrusi air laut",
         "bagaimana dampak dari kenaikan tml?",
-        "apa saja dampak dari kenaikan tml?"
+        "apa saja dampak dari kenaikan tml?",
+        "efek kenaikan muka laut?",
+        "konsekuensi dari SLR?",
+        "apa masalah yang ditimbulkan tml?",
+        "bahaya kenaikan permukaan air laut",
+        "kerugian akibat tml",
+        "Ancaman kenaikan muka air laut",
+        "Apa saja efek samping TML?",
+        "Implikasi kenaikan muka laut",
+        "Bagaimana TML mempengaruhi kehidupan?",
+        "Risiko kenaikan air laut",
+        "Apa bahaya SLR?",
+        "Dampak negatif TML",
+        "Kerusakan akibat TML",
+        "Apa saja masalah yang timbul dari TML?",
+        "Dampak kenaikan air laut pada ekosistem"
       ],
       "responses": [
         "Dampak dari kenaikan tinggi muka laut mencakup banjir rob, erosi pantai, intrusi air laut ke air tanah, hilangnya lahan pesisir, hingga perpindahan penduduk. Kota-kota pesisir sangat rentan terhadap dampak ini."
@@ -97,11 +179,25 @@
         "bagaimana proyeksi kenaikan tinggi muka laut?",
         "bagaimana proyeksi tml di masa depan",
         "prediksi tinggi muka laut tahun depan",
-        "proyeksi tinggi muka laut seperti apa"
+        "proyeksi tinggi muka laut seperti apa",
+        "perkiraan kenaikan muka laut",
+        "bagaimana prediksi tml di masa depan?",
+        "estimasi kenaikan permukaan laut",
+        "bagaimana perkiraan slr di tahun-tahun mendatang?",
+        "apa yang akan terjadi dengan tinggi muka laut nanti?",
+        "Model proyeksi TML",
+        "Proyeksi SLR global",
+        "Bagaimana TML diproyeksikan?",
+        "Perkiraan jangka panjang TML",
+        "Data proyeksi TML",
+        "Apa arti proyeksi kenaikan muka laut?",
+        "Bagaimana cara memproyeksikan TML?",
+        "Apa dasar proyeksi TML?",
+        "Perkiraan masa depan TML",
+        "Prediksi SLR di masa mendatang"
       ],
       "responses": [
-        "Proyeksi Sea Level Rise (SLR) adalah perkiraan kenaikan permukaan laut di masa depan berdasarkan model iklim global dan skenario emisi gas rumah kaca. Proyeksi ini digunakan untuk memahami potensi dampaknya terhadap wilayah pesisir.",
-        "Proyeksi kenaikan muka laut membantu kita merencanakan infrastruktur, tata ruang, dan kebijakan perlindungan pesisir berdasarkan skenario masa depan."
+        "Proyeksi Sea Level Rise (SLR) adalah perkiraan kenaikan permukaan laut di masa depan berdasarkan model iklim global dan skenario emisi gas rumah kaca. Proyeksi ini digunakan untuk memahami potensi dampaknya terhadap wilayah pesisir.\n\nProyeksi kenaikan muka laut membantu kita merencanakan infrastruktur, tata ruang, dan kebijakan perlindungan pesisir berdasarkan skenario masa depan."
       ]
     },
     {
@@ -111,10 +207,25 @@
         "apa yang harus dilakukan dalam perencanaan pesisir?",
         "perencanaan wilayah pesisir yang baik",
         "bagaimana perencanaan wilayah pesisir terkait tml?",
-        "apa perencanaan wilayah pesisir terkait kenaikan tml?"
+        "apa perencanaan wilayah pesisir terkait kenaikan tml?",
+        "bagaimana merencanakan tata ruang pesisir?",
+        "pentingnya perencanaan pesisir",
+        "cara membuat rencana wilayah yang adaptif",
+        "kebijakan perencanaan pesisir",
+        "bagaimana mengatur wilayah pesisir?",
+        "Perencanaan tata ruang pesisir untuk SLR",
+        "Integrasi SLR dalam perencanaan kota",
+        "Manajemen pesisir berkelanjutan",
+        "Perencanaan mitigasi di wilayah pesisir",
+        "Strategi perencanaan pesisir",
+        "Pendekatan perencanaan pesisir",
+        "Apa itu perencanaan wilayah pesisir terpadu?",
+        "Bagaimana membuat wilayah pesisir tangguh?",
+        "Perencanaan wilayah pesisir yang resilient",
+        "Contoh perencanaan wilayah pesisir"
       ],
       "responses": [
-        "Perencanaan wilayah pesisir yang baik harus mempertimbangkan proyeksi kenaikan muka laut, zonasi rawan bencana, dan integrasi dengan kebijakan adaptasi. Penggunaan data spasial dan partisipasi masyarakat juga sangat penting."
+        "Perencanaan wilayah pesisir yang baik harus mempertimbangkan proyeksi kenaikan muka laut, zonasi rawan bencana, dan integrasi dengan kebijakan adaptasi.\n\nPenggunaan data spasial dan partisipasi masyarakat juga sangat penting."
       ]
     },
     {
@@ -123,10 +234,26 @@
         "Apa bedanya adaptasi dan mitigasi?",
         "Apa perbedaan antara mitigasi dan adaptasi?",
         "Adaptasi itu beda dengan mitigasi?",
-        "Apa itu adaptasi? Apa itu mitigasi?"
+        "Apa itu adaptasi? Apa itu mitigasi?",
+        "Jelaskan perbedaan adaptasi dan mitigasi",
+        "Adaptasi vs Mitigasi",
+        "Apakah adaptasi sama dengan mitigasi?",
+        "Bisakah saya membedakan adaptasi dan mitigasi?",
+        "Definisi adaptasi dan mitigasi",
+        "Mitigasi dan adaptasi adalah dua hal yang berbeda?",
+        "Contoh adaptasi dan mitigasi",
+        "Konsep adaptasi dan mitigasi",
+        "Tujuan adaptasi dan mitigasi",
+        "Perbandingan adaptasi dan mitigasi",
+        "Fungsi adaptasi dan mitigasi",
+        "Apa itu upaya adaptasi?",
+        "Apa itu upaya mitigasi?",
+        "Apakah keduanya saling terkait?",
+        "Perbedaan strategi adaptasi dan mitigasi",
+        "Adaptasi dan mitigasi dalam perubahan iklim"
       ],
       "responses": [
-        "Mitigasi adalah upaya mengurangi penyebab perubahan iklim, seperti mengurangi emisi gas rumah kaca. Sementara adaptasi adalah penyesuaian terhadap dampaknya, seperti membangun tanggul untuk menghadapi kenaikan muka laut. Keduanya saling melengkapi dan penting dilakukan bersamaan."
+        "Mitigasi adalah upaya mengurangi penyebab perubahan iklim, seperti mengurangi emisi gas rumah kaca.\n\nSementara adaptasi adalah penyesuaian terhadap dampaknya, seperti membangun tanggul untuk menghadapi kenaikan muka laut.\n\nKeduanya saling melengkapi dan penting dilakukan bersamaan."
       ]
     },
     {
@@ -135,10 +262,26 @@
         "Kenapa kita harus peduli pada kenaikan muka laut?",
         "Mengapa penting memantau tinggi muka laut?",
         "Apa dampak dari kenaikan tinggi muka laut?",
-        "Mengapa TML itu penting?"
+        "Mengapa TML itu penting?",
+        "Kenapa kenaikan permukaan air laut jadi perhatian?",
+        "Apa urgensinya memantau TML?",
+        "Mengapa kita perlu khawatir dengan TML?",
+        "Pentingnya memahami tinggi muka laut",
+        "Kenapa TML harus dipantau?",
+        "Apa gunanya peduli TML?",
+        "Alasan peduli TML",
+        "Mengapa SLR adalah masalah serius?",
+        "Pentingnya TML bagi lingkungan",
+        "Mengapa TML berpengaruh besar?",
+        "Perlukah kita peduli kenaikan air laut?",
+        "Kenapa TML itu krusial?",
+        "Apakah TML akan berdampak pada kita?",
+        "Seberapa penting TML bagi masa depan?",
+        "Mengapa TML menjadi isu global?",
+        "Kenapa kita harus mengamati TML?"
       ],
       "responses": [
-        "Kenaikan tinggi muka laut dapat menyebabkan banjir rob, abrasi pantai, hilangnya wilayah pesisir, dan merusak ekosistem laut. Jika tidak diantisipasi, jutaan orang yang tinggal di pesisir bisa terdampak langsung. Maka, penting untuk memahami dan memantau TML."
+        "Kenaikan tinggi muka laut dapat menyebabkan banjir rob, abrasi pantai, hilangnya wilayah pesisir, dan merusak ekosistem laut.\n\nJika tidak diantisipasi, jutaan orang yang tinggal di pesisir bisa terdampak langsung. Maka, penting untuk kita memahami dan memantau TML."
       ]
     },
     {
@@ -147,10 +290,26 @@
         "Apakah TML sama dengan banjir rob?",
         "Apa perbedaan TML dan rob?",
         "Tinggi muka laut itu rob ya?",
-        "Apa beda kenaikan TML dan banjir rob?"
+        "Apa beda kenaikan TML dan banjir rob?",
+        "Apakah rob dan TML itu hal yang sama?",
+        "Jelaskan bedanya TML dan banjir rob",
+        "Definisi TML dan rob",
+        "TML atau rob, apa bedanya?",
+        "Rob itu apa hubungannya dengan TML?",
+        "Perbedaan antara pasang rob dan tinggi muka laut",
+        "Apakah rob disebabkan TML?",
+        "Hubungan TML dan banjir rob",
+        "Keterkaitan TML dan rob",
+        "Banjir rob vs TML",
+        "Rob itu konsekuensi TML?",
+        "TML dan rob, apa kaitannya?",
+        "Apa itu banjir rob?",
+        "Beda tinggi laut dan rob",
+        "Apakah rob adalah dampak dari TML?",
+        "Bagaimana rob terjadi akibat TML?"
       ],
       "responses": [
-        "TML (Tinggi Muka Laut) adalah ukuran ketinggian rata-rata permukaan laut dalam jangka panjang. Banjir rob adalah kejadian banjir saat air laut pasang masuk ke daratan, sering kali dipicu oleh kenaikan TML dan faktor lokal seperti gravitasi bulan atau penurunan permukaan tanah."
+        "TML (Tinggi Muka Laut) adalah ukuran ketinggian rata-rata permukaan laut dalam jangka panjang.\n\nBanjir rob adalah kejadian banjir saat air laut pasang masuk ke daratan, sering kali dipicu oleh kenaikan TML dan faktor lokal seperti gravitasi bulan atau penurunan permukaan tanah."
       ]
     },
     {
@@ -159,10 +318,26 @@
         "Apakah TML bisa diprediksi secara akurat?",
         "Seberapa akurat proyeksi tinggi muka laut?",
         "Apakah proyeksi TML dapat dipercaya?",
-        "Prediksi TML itu pasti benar?"
+        "Prediksi TML itu pasti benar?",
+        "Seberapa yakin proyeksi kenaikan muka laut?",
+        "Bisakah proyeksi TML diandalkan?",
+        "Bagaimana tingkat akurasi prediksi TML?",
+        "Apakah ramalan TML itu tepat?",
+        "Seberapa presisi proyeksi tinggi muka laut?",
+        "Apakah perkiraan TML selalu benar?",
+        "Keandalan proyeksi SLR",
+        "Batas akurasi proyeksi TML",
+        "Bagaimana validasi proyeksi TML?",
+        "Faktor yang mempengaruhi akurasi proyeksi",
+        "Tingkat kepercayaan proyeksi TML",
+        "Apakah proyeksi SLR reliable?",
+        "Seberapa jauh proyeksi TML bisa dipercaya?",
+        "Validitas proyeksi TML",
+        "Apakah ada margin error dalam proyeksi TML?",
+        "Keakuratan data proyeksi TML"
       ],
       "responses": [
-        "Proyeksi TML dibuat dengan model iklim global berdasarkan data historis dan skenario emisi. Meskipun ada ketidakpastian, proyeksi ini sangat penting untuk perencanaan jangka panjang. Akurasinya cukup tinggi untuk skala regional, terutama jika dikombinasikan dengan data lokal dan model pembelajaran mesin."
+        "Proyeksi TML dibuat dengan model iklim global berdasarkan data historis dan skenario emisi.\n\nMeskipun ada ketidakpastian, proyeksi ini sangat penting untuk perencanaan jangka panjang.\n\nAkurasinya cukup tinggi untuk skala regional, terutama jika dikombinasikan dengan data lokal dan model pembelajaran mesin."
       ]
     },
     {
@@ -172,10 +347,25 @@
         "Apa itu SSP585?",
         "Apa maksud dari skenario iklim SSP?",
         "Apa beda SRES dan SSP?",
-        "Tolong jelaskan tentang SSP dan skenario iklim"
+        "Tolong jelaskan tentang SSP dan skenario iklim",
+        "Definisi Shared Socioeconomic Pathways",
+        "Apa yang dimaksud dengan SSP585?",
+        "Apa fungsi SSP dalam proyeksi iklim?",
+        "Jelaskan skenario emisi SSP",
+        "Mengapa ada berbagai skenario SSP?",
+        "Contoh skenario SSP lain",
+        "SSP dalam laporan IPCC",
+        "Bagaimana SSP digunakan?",
+        "Apa arti angka dalam SSP585?",
+        "SSP dan perubahan iklim",
+        "Apa itu skenario SSP?",
+        "Skenario Shared Socioeconomic Pathways",
+        "SSP artinya apa?",
+        "Bagaimana SSP mempengaruhi proyeksi TML?",
+        "Apa yang dimaksud dengan SSP dalam konteks iklim?"
       ],
       "responses": [
-        "SSP (Shared Socioeconomic Pathways) adalah skenario masa depan yang digunakan dalam proyeksi iklim. SSP585 adalah skenario emisi tinggi, menggambarkan dunia yang terus menggunakan bahan bakar fosil tanpa banyak mitigasi. Skenario ini digunakan untuk melihat potensi dampak terburuk perubahan iklim jika tidak ada aksi nyata."
+        "SSP (Shared Socioeconomic Pathways) adalah skenario masa depan yang digunakan dalam proyeksi iklim.\n\nSSP585 adalah skenario emisi tinggi, menggambarkan dunia yang terus menggunakan bahan bakar fosil tanpa banyak mitigasi.\n\nSkenario ini digunakan untuk melihat potensi dampak terburuk perubahan iklim jika tidak ada aksi nyata."
       ]
     },
     {
@@ -185,10 +375,25 @@
         "Prediksi dan proyeksi itu sama?",
         "Perbedaan prediksi dan proyeksi TML?",
         "Prediksi itu seperti proyeksi?",
-        "Proyeksi TML itu prediksi ya?"
+        "Proyeksi TML itu prediksi ya?",
+        "Jelaskan perbedaan antara prediksi dan proyeksi",
+        "Prediksi vs proyeksi, apa bedanya?",
+        "Apakah prediksi TML sama dengan proyeksi TML?",
+        "Apa definisi prediksi dan proyeksi?",
+        "Mengapa ada istilah prediksi dan proyeksi?",
+        "Kapan memakai prediksi, kapan proyeksi?",
+        "Model prediksi vs model proyeksi",
+        "Jangka waktu prediksi dan proyeksi",
+        "Implikasi prediksi dan proyeksi",
+        "Contoh prediksi dan proyeksi",
+        "Perbedaan forecast dan projection",
+        "Apa perbedaan utama prediksi dan proyeksi?",
+        "Bagaimana prediksi dan proyeksi digunakan?",
+        "Kapan kita bilang prediksi atau proyeksi?",
+        "Apakah ada perbedaan fundamental?"
       ],
       "responses": [
-        "Prediksi biasanya merujuk pada estimasi jangka pendek dengan ketidakpastian yang lebih kecil, misalnya prediksi cuaca beberapa hari ke depan. Sedangkan proyeksi digunakan untuk jangka panjang dan mempertimbangkan berbagai skenario masa depan, seperti skenario emisi. Proyeksi TML menunjukkan kemungkinan perubahan tinggi muka laut berdasarkan skenario tertentu, bukan kepastian tunggal."
+        "Prediksi biasanya merujuk pada estimasi jangka pendek dengan ketidakpastian yang lebih kecil, misalnya prediksi cuaca beberapa hari ke depan.\n\nSedangkan proyeksi digunakan untuk jangka panjang dan mempertimbangkan berbagai skenario masa depan, seperti skenario emisi.\n\nProyeksi TML menunjukkan kemungkinan perubahan tinggi muka laut berdasarkan skenario tertentu, bukan kepastian tunggal."
       ]
     },
     {
@@ -199,65 +404,136 @@
         "Jelaskan tentang tinggi muka laut di indonesia",
         "Kondisi terkini tml di indonesia?",
         "Kondisi tinggi muka laut indonesia?",
-        "Berikan penjelasan mengenai tml indonesia"
+        "Berikan penjelasan mengenai tml indonesia",
+        "Tren TML di perairan Indonesia",
+        "Apa yang terjadi dengan tinggi muka laut di Jakarta?",
+        "Bagaimana SLR mempengaruhi Indonesia?",
+        "Data kenaikan muka laut di Indonesia",
+        "TML rata-rata di Indonesia",
+        "Kondisi pesisir Indonesia terkait TML",
+        "Dampak TML pada pulau-pulau kecil di Indonesia",
+        "Data historis TML Indonesia",
+        "Kenaikan muka air laut di Indonesia",
+        "Perkembangan TML di Indonesia",
+        "Bagaimana TML di berbagai wilayah Indonesia?",
+        "Apa dampak TML di pesisir Indonesia?",
+        "Informasi TML di kepulauan Indonesia",
+        "Status kenaikan muka laut di Indonesia"
       ],
       "responses": [
-        "Tinggi muka laut di Indonesia terus naik setiap tahun, sebagian karena es di kutub mencair dan laut menjadi lebih panas. Di beberapa kota seperti Jakarta, Semarang, dan pesisir Kalimantan, air laut sudah mulai sering masuk ke daratan (banjir rob). Kalau permukaan laut terus naik, beberapa wilayah di Indonesia bisa tenggelam di masa depan jika tidak ada upaya perlindungan dan adaptasi."
+        "Tinggi muka laut di Indonesia terus naik setiap tahun, sebagian karena es di kutub mencair dan laut menjadi lebih panas.\n\nDi beberapa kota seperti Jakarta, Semarang, dan pesisir Kalimantan, air laut sudah mulai sering masuk ke daratan (banjir rob).\n\nKalau permukaan laut terus naik, beberapa wilayah di Indonesia bisa tenggelam di masa depan jika tidak ada upaya perlindungan dan adaptasi."
       ]
     },
-        {
+    {
       "tag": "plot_tml_tahunan",
       "patterns": [
-        "Bagaimana tinggi muka laut tahun *",
-        "Tampilkan grafik tml tahun *",
-        "Grafik tinggi muka laut tahun *",
-        "Saya ingin melihat grafik tml tahun *"
+        "Bagaimana tinggi muka laut Indonesia tahun 1995",
+        "Tampilkan grafik tml indonesia tahun 2000",
+        "Grafik tinggi muka laut indonesia tahun 2010",
+        "Saya ingin melihat data tml indonesia 2015",
+        "TML rata-rata indonesia 2005",
+        "Data tinggi muka laut indonesia 2022",
+        "Tampilkan data TML indonesia 2003",
+        "Bagaimana TML indonesia di 1997?",
+        "cek kondisi indonesia 2018",
+        "data tml indonesia 1999",
+        "Tunjukkan TML indonesia untuk tahun 2008",
+        "Lihat data TML indonesia tahun 2012",
+        "Gambar grafik TML indonesia tahun 2001",
+        "Info TML indonesia tahun 2019",
+        "Berapa TML indonesia di tahun 2021?",
+        "TML di Indonesia tahun 2004",
+        "Tampilkan grafik TML indonesia 2006",
+        "Data TML rata-rata indonesia tahun 2011",
+        "Bagaimana TML indonesia pada 2013?",
+        "Grafik kenaikan muka laut indonesia 2016"
       ],
       "responses": [
-        "Berikut grafik tinggi muka laut rata-rata pada tahun tersebut:"
+        "Berikut grafik tinggi muka laut rata-rata di Indonesia pada tahun tersebut:"
       ],
       "function": "plot_tml_tahunan"
     },
     {
       "tag": "plot_proyeksi_tml_tahunan",
       "patterns": [
-        "Bagaimana proyeksi tinggi muka laut tahun *",
-        "Tampilkan proyeksi grafik tml tahun *",
-        "Grafik proyeksi tinggi muka laut tahun *",
-        "Saya ingin melihat grafik proyeksi tml tahun *"
+        "Bagaimana proyeksi tinggi muka laut indonesia tahun 2030",
+        "Tampilkan proyeksi grafik tml indonesia 2100",
+        "Grafik proyeksi indonesia 2045",
+        "Saya ingin melihat proyeksi tml indonesia 2070",
+        "Proyeksi TML indonesia 2050",
+        "Tunjukkan perkiraan TML indonesia 2060",
+        "prediksi indonesia 2080",
+        "estimasi indonesia 2090",
+        "bagaimana kondisi indonesia 2035 nanti?",
+        "Grafik proyeksi TML indonesia tahun 2095",
+        "Bagaimana proyeksi TML indonesia di tahun 2040?",
+        "Perkiraan TML indonesia untuk tahun 2075",
+        "Tampilkan proyeksi indonesia 2085",
+        "Prediksi kenaikan muka laut indonesia 2055",
+        "Proyeksi TML indonesia 2070",
+        "Grafik prediksi TML indonesia 2090",
+        "TML indonesia di masa depan 2065",
+        "Proyeksi TML Indonesia 2080",
+        "Bagaimana TML Indonesia diproyeksikan pada 2040?"
       ],
       "responses": [
-        "Berikut grafik proyeksi tinggi muka laut rata-rata pada tahun tersebut:"
+        "Berikut grafik proyeksi tinggi muka laut rata-rata di Indonesia pada tahun tersebut:"
       ],
       "function": "plot_proyeksi_tml_tahunan"
     },
     {
       "tag": "plot_tml_desa",
       "patterns": [
-        "Tampilkan grafik tinggi muka laut di desa * tahun *",
-        "Bagaimana tinggi muka laut di desa * tahun *",
-        "Tinggi muka laut desa * tahun *",
-        "Grafik tml desa * tahun *",
-        "Grafik tinggi muka laut desa * tahun *",
-        "Bagaimana tml desa * tahun *"
+        "Tampilkan grafik tinggi muka laut di desa Siomeda tahun 2006",
+        "Bagaimana tinggi muka laut di desa Tada tahun 2000",
+        "TML desa Sillu 2001",
+        "Grafik tml desa Tamburi di 2005",
+        "Grafik tml siomeda 1996",
+        "cek tml tada 2010",
+        "kondisi di sillu 2017",
+        "data untuk desa tamburi di 2004",
+        "siomeda 2005",
+        "TML desa Melati tahun 2008",
+        "Lihat TML untuk desa Anggrek di 2019",
+        "Grafik desa Mawar 2020",
+        "Data TML desa Kenanga tahun 2012",
+        "kondisi desa Tulip 2007",
+        "Tampilkan TML desa A tahun 2002",
+        "Grafik TML untuk desa B di 2011",
+        "Info TML desa C tahun 2013",
+        "Berapa TML di desa D pada 2016?",
+        "Bagaimana TML di desa E tahun 1998?"
       ],
       "responses": [
-        "Berikut adalah grafik tinggi muka laut di desa tersebut:"
+        "Berikut adalah grafik tinggi muka laut di desa tersebut pada tahun yang dimaksud:"
       ],
       "function": "plot_tml_desa"
     },
     {
       "tag": "plot_proyeksi_tml_desa",
       "patterns": [
-        "Tampilkan grafik proyeksi tinggi muka laut di desa Siomeda tahun 2005",
-        "Bagaimana proyeksi tinggi muka laut di desa Tada tahun 1999",
-        "Proyeksi tinggi muka laut desa Sillu tahun 2000",
-        "Grafik proyeksi tml desa tamburi tahun 2010",
-        "Grafik proyeksi tinggi muka laut desa siomeda tahun 1995",
-        "Bagaimana proyeksi tml desa tada tahun 2009"
+        "grafik proyeksi tml di desa Siomeda 2100",
+        "Bagaimana proyeksi di desa Tada tahun 2050",
+        "Proyeksi tml desa Sillu 2050",
+        "Grafik proyeksi tamburi 2045",
+        "proyeksi siomeda 2075",
+        "prediksi tml tada tahun 2030",
+        "perkiraan di sillu 2080",
+        "proyeksi untuk desa tamburi di 2070",
+        "Tampilkan proyeksi TML desa Anyelir 2060",
+        "Prediksi untuk desa Dahlia di 2090",
+        "Proyeksi desa Kamboja 2035",
+        "Grafik proyeksi TML desa Bakung 2055",
+        "Estimasi TML desa Teratai 2070",
+        "Bagaimana proyeksi desa Melati 2040?",
+        "Grafik proyeksi desa A 2070",
+        "Proyeksi TML desa B 2085",
+        "Prediksi TML desa C 2050",
+        "Tampilkan proyeksi desa D tahun 2099",
+        "Perkiraan TML di desa E 2060"
       ],
       "responses": [
-        "Berikut adalah grafik proyeksi tinggi muka laut di desa tersebut:"
+        "Berikut adalah grafik proyeksi tinggi muka laut di desa tersebut pada tahun yang dimaksud:"
       ],
       "function": "plot_proyeksi_tml_desa"
     },
@@ -266,94 +542,230 @@
       "patterns": [
         "Bagaimana tren tinggi muka laut di desa Siomeda?",
         "Tampilkan tren kenaikan TML di desa Tamburi",
-        "Apakah tinggi muka laut di desa Sillu naik?",
-        "Cek tren tinggi muka laut desa Tada",
-        "Kondisi tren tml di desa Sillu"
+        "Apakah tinggi muka laut di Sillu naik?",
+        "Cek tren Tada",
+        "laju kenaikan siomeda",
+        "perkembangan tml tamburi",
+        "apakah di sillu tml nya naik terus?",
+        "Bagaimana perkembangan TML di desa Anggrek?",
+        "Tunjukkan laju TML desa Melati",
+        "Tren historis TML desa Mawar",
+        "Apakah desa Kenanga mengalami kenaikan TML?",
+        "Grafik tren TML di desa Tulip",
+        "Laju kenaikan TML di desa A",
+        "Tren TML desa B dari waktu ke waktu",
+        "Bagaimana perubahan TML di desa C?",
+        "Desa D, bagaimana tren TMLnya?",
+        "Tampilkan grafik tren TML desa E"
       ],
       "responses": [
-        "Berikut adalah grafik tren kenaikan tinggi muka laut di desa tersebut:"
+        "Berikut adalah grafik tren kenaikan tinggi muka laut di desa tersebut pada periode tahun 1993-2023:"
       ],
       "function": "tren_tml_desa"
     },
     {
       "tag": "tren_proyeksi_tml_desa",
       "patterns": [
-        "Bagaimana tren proyeksi tinggi muka laut di desa Siomeda?",
-        "Tampilkan tren proyeksi kenaikan TML di desa Tamburi",
-        "Apakah proyeksi tinggi muka laut di desa Sillu naik?",
-        "Cek tren proyeksi tinggi muka laut desa Tada",
-        "Kondisi tren proyeksi tml di desa Sillu"
+        "Bagaimana tren proyeksi di desa Siomeda?",
+        "Tampilkan tren proyeksi Tamburi",
+        "Apakah proyeksi di Sillu naik?",
+        "Cek tren proyeksi Tada",
+        "prediksi tren siomeda",
+        "perkiraan laju kenaikan tamburi",
+        "proyeksi perkembangan di sillu",
+        "Bagaimana tren proyeksi TML desa Anggrek?",
+        "Tunjukkan laju proyeksi TML desa Melati",
+        "Tren proyeksi TML desa Mawar",
+        "Apakah desa Kenanga diproyeksikan naik TML-nya?",
+        "Grafik tren proyeksi TML di desa Tulip",
+        "Laju proyeksi TML di desa A",
+        "Tren proyeksi TML desa B di masa depan",
+        "Bagaimana proyeksi perubahan TML di desa C?",
+        "Desa D, bagaimana tren proyeksi TMLnya?",
+        "Tampilkan grafik tren proyeksi TML desa E"
       ],
       "responses": [
-        "Berikut adalah grafik tren proyeksi kenaikan tinggi muka laut di desa tersebut:"
+        "Berikut adalah grafik tren proyeksi kenaikan tinggi muka laut di desa tersebut periode tahun 2025-2100:"
       ],
       "function": "tren_proyeksi_tml_desa"
     },
     {
       "tag": "tren_tml_nasional",
       "patterns": [
-        "Berapa tren kenaikan tinggi muka laut nasional?",
-        "Tampilkan grafik tren nasional tinggi muka laut",
-        "Bagaimana tren nasional TML dari tahun ke tahun?",
-        "Grafik tren TML seluruh Indonesia"
+        "Berapa tren kenaikan tml nasional?",
+        "Tampilkan grafik tren nasional",
+        "Bagaimana tren TML dari tahun ke tahun?",
+        "Grafik tren seluruh Indonesia",
+        "Tren kenaikan muka laut di Indonesia",
+        "Rata-rata kenaikan TML nasional",
+        "perkembangan TML Indonesia",
+        "tren nasional",
+        "Perubahan tinggi muka laut di indonesia",
+        "Bagaimana laju kenaikan TML rata-rata Indonesia?",
+        "Grafik historis TML Indonesia",
+        "Seberapa cepat TML naik di Indonesia?",
+        "Data tren TML skala nasional",
+        "Perkembangan rata-rata TML Indonesia",
+        "TML Indonesia naik berapa?",
+        "Grafik tren kenaikan muka laut secara nasional",
+        "Rata-rata perubahan TML Indonesia",
+        "Bagaimana kondisi tren TML Indonesia terkini?",
+        "Tunjukkan grafik laju kenaikan TML Indonesia"
       ],
       "responses": [
-        "Berikut adalah grafik rata-rata kenaikan tinggi muka laut nasional dari tahun 1993 hingga 2023:"
+        "Berikut adalah grafik rata-rata kenaikan tinggi muka laut nasional dari tahun 1993-2023:"
       ],
       "function": "tren_tml_nasional"
     },
     {
       "tag": "tren_proyeksi_tml_nasional",
       "patterns": [
-        "Berapa tren proyeksi kenaikan tinggi muka laut nasional?",
-        "Tampilkan grafik proyeksi tren nasional tinggi muka laut",
-        "Bagaimana tren proyeksi nasional TML dari tahun ke tahun?",
-        "Grafik tren proyeksi TML seluruh Indonesia"
+        "Berapa tren proyeksi nasional?",
+        "Tampilkan grafik proyeksi tren nasional",
+        "Bagaimana tren proyeksi TML di masa depan?",
+        "Grafik tren proyeksi Indonesia",
+        "Tren proyeksi kenaikan muka laut",
+        "Rata-rata proyeksi kenaikan TML nasional",
+        "prediksi tren indonesia sampai 2100",
+        "tren proyeksi nasional",
+        "Proyeksi perubahan tinggi muka laut di Indonesia",
+        "Bagaimana laju proyeksi TML rata-rata Indonesia?",
+        "Grafik proyeksi TML jangka panjang Indonesia",
+        "Seberapa cepat TML diproyeksikan naik di Indonesia?",
+        "Data tren proyeksi TML skala nasional",
+        "Perkembangan rata-rata proyeksi TML Indonesia",
+        "Proyeksi tren kenaikan muka laut Indonesia",
+        "Bagaimana prediksi tren TML nasional?",
+        "Tren proyeksi SLR di Indonesia",
+        "Grafik tren proyeksi TML seluruh Indonesia",
+        "Prediksi kenaikan TML rata-rata nasional"
       ],
       "responses": [
-        "Berikut adalah grafik tren proyeksi kenaikan tinggi muka laut nasional dari tahun 2025 hingga 2100:"
+        "Berikut adalah grafik tren proyeksi kenaikan tinggi muka laut nasional dari tahun 2025-2100:"
       ],
       "function": "tren_proyeksi_tml_nasional"
     },
     {
       "tag": "bandingkan_desa",
       "patterns": [
-        "Bandingkan tinggi muka laut desa Tamburi dan Siomeda",
-        "Tunjukkan perbandingan grafik desa A dan desa B",
+        "Bandingkan tml desa Tamburi dan Siomeda",
+        "perbandingan grafik desa A dengan desa B",
         "Perbandingan TML antar desa",
-        "Bisa tampilkan grafik dua desa?",
-        "Bagaimana jika dibandingkan desa A dan desa B?",
-        "Bandingkan desa X vs desa Y",
-        "Apa beda tinggi muka laut antara desa A dan B?"
+        "Bandingkan Siomeda vs Tada",
+        "beda tml antara Sillu dan Tamburi",
+        "compare Siomeda dan Tada",
+        "TML desa Mawar dengan desa Melati",
+        "Perbandingan TML antara dua desa",
+        "Apakah TML desa Anggrek lebih tinggi dari desa Tulip?",
+        "Grafik perbandingan TML desa X dan desa Y",
+        "Lihat perbedaan TML desa Kenanga dan desa Dahlia",
+        "Bandingkan TML antara Desa Jaya dan Desa Makmur",
+        "Tampilkan perbandingan TML desa P dan desa Q",
+        "Bagaimana TML di desa R dibandingkan desa S?",
+        "Apakah ada perbedaan TML signifikan antara desa T dan U?",
+        "Perbandingan data TML desa V dengan desa W"
       ],
       "responses": [
-        "Berikut perbandingan tinggi muka laut antara dua desa:"
+        "Berikut perbandingan tinggi muka laut antara dua desa tersebut:"
       ],
       "function": "plot_bandingkan_desa"
     },
     {
       "tag": "proyeksi_bandingkan_desa",
       "patterns": [
-        "Bandingkan proyeksi tinggi muka laut desa Tamburi dan Siomeda",
-        "Tunjukkan perbandingan grafik proyeksi di desa A dan desa B",
+        "Bandingkan proyeksi Tamburi dan Siomeda",
+        "perbandingan proyeksi di desa A dan desa B",
         "Perbandingan proyeksi TML antar desa",
-        "Bisa tampilkan grafik proyeksi dua desa?",
-        "Bagaimana jika dibandingkan proyeksi desa A dan proyeksi desa B?",
-        "Bandingkan proyeksi desa X vs desa Y",
-        "Apa beda proyeksi tinggi muka laut antara desa A dan B?"
+        "Bandingkan proyeksi Siomeda vs Tada",
+        "beda proyeksi antara Sillu dan Tamburi",
+        "compare proyeksi Siomeda dan Tada",
+        "Proyeksi TML desa Mawar dibandingkan desa Melati",
+        "Perbandingan proyeksi TML antara dua desa",
+        "Apakah proyeksi TML desa Anggrek lebih tinggi dari desa Tulip?",
+        "Grafik perbandingan proyeksi TML desa X dan desa Y",
+        "Lihat perbedaan proyeksi TML desa Kenanga dan desa Dahlia",
+        "Bandingkan proyeksi TML antara Desa Jaya dan Desa Makmur",
+        "Tampilkan perbandingan proyeksi TML desa P dan desa Q",
+        "Bagaimana proyeksi TML di desa R dibandingkan desa S?",
+        "Apakah ada perbedaan proyeksi TML signifikan antara desa T dan U?",
+        "Perbandingan data proyeksi TML desa V dengan desa W"
       ],
       "responses": [
-        "Berikut perbandingan proyeksi tinggi muka laut antara dua desa:"
+        "Berikut perbandingan proyeksi tinggi muka laut antara dua desa tersebut:"
       ],
       "function": "plot_proyeksi_bandingkan_desa"
+    },
+    {
+      "tag": "bandingkan_provinsi",
+      "patterns": [
+        "Bandingkan tml provinsi jawa timur dan jawa barat",
+        "perbandingan tml antar provinsi",
+        "beda tml antara dki jakarta dan banten",
+        "compare tml jawa tengah vs yogyakarta",
+        "TML provinsi Sumatera Utara dan Riau",
+        "Perbandingan TML antara dua provinsi",
+        "Apakah TML di Bali lebih tinggi dari Lombok?",
+        "Grafik perbandingan TML provinsi A dan provinsi B",
+        "Lihat perbedaan TML Jawa Barat dan Banten",
+        "TML Kalimantan Selatan vs Kalimantan Timur",
+        "Tampilkan perbandingan TML provinsi Lampung dan Bengkulu",
+        "Bandingkan TML Aceh dan Sumatera Barat",
+        "Perbandingan TML Papua dan Papua Barat",
+        "Apakah TML Sulawesi Selatan lebih tinggi dari Sulawesi Tenggara?",
+        "Grafik perbandingan TML Maluku dan Maluku Utara",
+        "TML antara Jawa Tengah dan Jawa Timur"
+      ],
+      "responses": [
+        "Berikut perbandingan tinggi muka laut antara dua provinsi:"
+      ],
+      "function": "plot_bandingkan_provinsi"
+    },
+    {
+      "tag": "proyeksi_bandingkan_provinsi",
+      "patterns": [
+        "Bandingkan prediksi tml provinsi jawa timur dan jawa barat",
+        "perbandingan proyeksi tml antar provinsi",
+        "beda proyeksi tml antara dki jakarta dan banten",
+        "Prediksi tml jawa tengah vs yogyakarta",
+        "Proyeksi TML provinsi Sumatera Utara dan Riau",
+        "Perbandingan proyeksi TML antara dua provinsi",
+        "Apakah proyeksi TML di Bali lebih tinggi dari Lombok?",
+        "Grafik perbandingan proyeksi TML provinsi A dan provinsi B",
+        "Lihat perbedaan proyeksi TML Jawa Barat dan Banten",
+        "Proyeksi TML Kalimantan Selatan vs Kalimantan Timur",
+        "Tampilkan perbandingan proyeksi TML provinsi Lampung dan Bengkulu",
+        "Bandingkan proyeksi TML Aceh dan Sumatera Barat",
+        "Perbandingan proyeksi TML Papua dan Papua Barat",
+        "Apakah proyeksi TML Sulawesi Selatan lebih tinggi dari Sulawesi Tenggara?",
+        "Grafik perbandingan proyeksi TML Maluku dan Maluku Utara",
+        "Proyeksi TML antara Jawa Tengah dan Jawa Timur"
+      ],
+      "responses": [
+        "Berikut perbandingan proyeksi tinggi muka laut antara dua provinsi:"
+      ],
+      "function": "plot_proyeksi_bandingkan_provinsi"
     },
     {
       "tag": "ranking_tml_desa",
       "patterns": [
         "Tampilkan 5 desa dengan TML tertinggi",
         "Ranking 10 desa tertinggi",
-        "Desa mana dengan rata-rata TML paling tinggi",
-        "Urutan 7 desa berdasarkan tinggi muka laut"
+        "Desa mana dengan TML paling tinggi",
+        "Urutan 7 desa berdasarkan tinggi muka laut",
+        "Daftar desa teratas",
+        "desa mana paling terdampak?",
+        "Top 5 desa TML",
+        "ranking desa",
+        "Daftar desa dengan TML teratas",
+        "Urutkan desa berdasarkan TML",
+        "Lima desa TML paling tinggi",
+        "Tunjukkan desa dengan TML ekstrem",
+        "Desa mana yang memiliki TML tertinggi saat ini?",
+        "Ranking desa berdasarkan kenaikan muka laut",
+        "Tampilkan desa dengan TML terparah",
+        "Urutan desa TML dari yang tertinggi",
+        "Top 10 desa terdampak TML",
+        "Daftar desa TML tertinggi di Indonesia"
       ],
       "responses": [
         "Berikut adalah tabel desa berdasarkan rata-rata tinggi muka laut:"
@@ -364,9 +776,23 @@
       "tag": "ranking_proyeksi_tml_desa",
       "patterns": [
         "Tampilkan 5 desa dengan proyeksi TML tertinggi",
-        "Ranking 10 desa dengan proyeksi tertinggi",
-        "Desa mana dengan rata-rata proyeksi TML paling tinggi",
-        "Urutan 7 desa berdasarkan proyeksi tinggi muka laut"
+        "Ranking 10 desa proyeksi",
+        "Desa mana dengan proyeksi paling tinggi",
+        "Urutan 7 desa berdasarkan proyeksi",
+        "Daftar desa dengan proyeksi teratas",
+        "desa mana berpotensi paling terdampak?",
+        "Top 5 proyeksi desa",
+        "ranking proyeksi desa",
+        "Daftar desa dengan proyeksi TML teratas",
+        "Urutkan desa berdasarkan proyeksi TML",
+        "Lima desa proyeksi TML paling tinggi",
+        "Tunjukkan desa dengan proyeksi TML ekstrem",
+        "Desa mana yang berpotensi memiliki TML tertinggi di masa depan?",
+        "Ranking proyeksi desa berdasarkan kenaikan muka laut",
+        "Tampilkan desa dengan proyeksi TML terparah",
+        "Urutan proyeksi desa TML dari yang tertinggi",
+        "Top 10 proyeksi desa terdampak TML",
+        "Daftar proyeksi desa TML tertinggi di Indonesia"
       ],
       "responses": [
         "Berikut adalah tabel desa berdasarkan rata-rata proyeksi tinggi muka laut:"
@@ -376,10 +802,23 @@
     {
       "tag": "ranking_tml_provinsi",
       "patterns": [
-        "Provinsi mana dengan rata-rata TML tertinggi",
-        "Tampilkan urutan provinsi berdasarkan TML",
+        "Provinsi mana dengan TML tertinggi",
+        "urutan provinsi berdasarkan TML",
         "Ranking tinggi muka laut antar provinsi",
-        "Perbandingan tinggi muka laut tiap provinsi"
+        "Perbandingan tml tiap provinsi",
+        "Provinsi teratas",
+        "Daftar provinsi paling rentan",
+        "ranking provinsi",
+        "Top provinsi TML",
+        "Provinsi dengan TML tertinggi di Indonesia",
+        "Urutkan provinsi berdasarkan tinggi muka laut",
+        "Daftar provinsi dengan TML terburuk",
+        "Provinsi mana yang paling merasakan dampak TML?",
+        "Ranking TML provinsi terkini",
+        "Tampilkan provinsi dengan TML teratas",
+        "Urutan provinsi berdasarkan tingkat kenaikan muka laut",
+        "Daftar provinsi yang paling terdampak TML",
+        "Provinsi dengan TML tertinggi secara keseluruhan"
       ],
       "responses": [
         "Berikut adalah tabel provinsi berdasarkan rata-rata tinggi muka laut:"
@@ -389,10 +828,23 @@
     {
       "tag": "ranking_proyeksi_tml_provinsi",
       "patterns": [
-        "Provinsi mana dengan rata-rata proyeksi TML tertinggi",
-        "Tampilkan urutan provinsi berdasarkan proyeksi TML",
-        "Ranking proyeksi tinggi muka laut antar provinsi",
-        "Perbandingan proyeksi tinggi muka laut tiap provinsi"
+        "Provinsi mana dengan proyeksi TML tertinggi",
+        "urutan provinsi berdasarkan proyeksi",
+        "Ranking proyeksi antar provinsi",
+        "Perbandingan proyeksi tiap provinsi",
+        "Provinsi dengan proyeksi teratas",
+        "Daftar provinsi paling berisiko",
+        "ranking proyeksi provinsi",
+        "Top provinsi proyeksi TML",
+        "Provinsi dengan proyeksi TML tertinggi di Indonesia",
+        "Urutkan provinsi berdasarkan proyeksi tinggi muka laut",
+        "Daftar provinsi dengan proyeksi TML terburuk",
+        "Provinsi mana yang diproyeksikan paling merasakan dampak TML?",
+        "Ranking proyeksi TML provinsi di masa depan",
+        "Tampilkan provinsi dengan proyeksi TML teratas",
+        "Urutan provinsi berdasarkan tingkat proyeksi kenaikan muka laut",
+        "Daftar provinsi yang diproyeksikan paling terdampak TML",
+        "Provinsi dengan proyeksi TML tertinggi secara keseluruhan"
       ],
       "responses": [
         "Berikut adalah tabel provinsi berdasarkan rata-rata proyeksi tinggi muka laut:"
@@ -403,12 +855,22 @@
       "tag": "peta_tml_tahun",
       "patterns": [
         "Tampilkan peta TML tahun 2010",
-        "Saya ingin lihat peta tinggi muka laut tahun 2020",
-        "Bagaimana peta TML tahun 1998?",
-        "Peta sebaran tinggi muka laut tahun 2023",
+        "Saya ingin lihat peta 2020",
+        "Bagaimana peta TML 1998?",
+        "Peta sebaran 2023",
         "Bisa tunjukkan peta TML 2015?",
-        "Bagaimana TML 2010?",
-        "Tunjukkan tinggi muka laut 2020?"
+        "peta 2007",
+        "peta nasional 2000",
+        "Peta TML seluruh Indonesia tahun 2017",
+        "Lihat distribusi TML tahun 2009",
+        "Peta tinggi muka laut tahun 2002",
+        "Tampilkan peta TML di tahun 2016",
+        "Peta TML per tahun 2014",
+        "Gambar peta TML untuk tahun 2003",
+        "Tunjukkan peta TML terbaru 2022",
+        "Peta sebaran TML tahun 2005",
+        "Lihat peta tinggi muka laut di Indonesia tahun 2001",
+        "Peta TML nasional tahun 1995"
       ],
       "responses": [
         "Berikut adalah peta sebaran tinggi muka laut pada tahun yang Anda minta:"
@@ -418,13 +880,23 @@
     {
       "tag": "peta_proyeksi_tml_tahun",
       "patterns": [
-        "Tampilkan peta proyeksi TML tahun 2010",
-        "Saya ingin lihat peta proyeksi tinggi muka laut tahun 2020",
-        "Bagaimana peta proyeksi TML tahun 1998?",
-        "Peta sebaran proyeksi tinggi muka laut tahun 2023",
-        "Bisa tunjukkan peta proyeksi TML 2015?",
-        "Bagaimana proyeksi TML 2010?",
-        "Tunjukkan proyeksi tinggi muka laut 2020?"
+        "Tampilkan peta proyeksi tahun 2040",
+        "Saya ingin lihat peta proyeksi 2050",
+        "Bagaimana peta proyeksi 2060?",
+        "Peta sebaran proyeksi 2070",
+        "Bisa tunjukkan peta proyeksi 2080?",
+        "peta proyeksi 2100",
+        "peta nasional masa depan tahun 2030",
+        "Peta proyeksi TML seluruh Indonesia tahun 2045",
+        "Lihat distribusi proyeksi TML tahun 2055",
+        "Peta proyeksi tinggi muka laut tahun 2090",
+        "Tampilkan peta proyeksi TML di tahun 2065",
+        "Peta proyeksi TML per tahun 2070",
+        "Gambar peta proyeksi TML untuk tahun 2035",
+        "Tunjukkan peta proyeksi TML untuk 2099",
+        "Peta sebaran proyeksi TML tahun 2075",
+        "Lihat peta proyeksi tinggi muka laut di Indonesia tahun 2088",
+        "Peta proyeksi TML nasional tahun 2050"
       ],
       "responses": [
         "Berikut adalah peta sebaran proyeksi tinggi muka laut pada tahun yang Anda minta:"
@@ -434,10 +906,23 @@
     {
       "tag": "peta_tren_tml_nasional",
       "patterns": [
-        "Tampilkan peta tren tinggi muka laut nasional",
-        "Bagaimana peta tren TML 1993 hingga 2023",
-        "Saya ingin melihat peta tren TML",
-        "Perlihatkan peta tren tinggi muka laut Indonesia"
+        "Tampilkan peta tren tml nasional",
+        "peta tren 1993 hingga 2023",
+        "peta tren TML",
+        "peta tren tinggi muka laut Indonesia",
+        "Peta kenaikan tml",
+        "Peta perubahan tml indonesia?",
+        "peta tren nasional",
+        "Peta laju kenaikan TML Indonesia",
+        "Peta tren rata-rata TML",
+        "Visualisasi tren TML nasional",
+        "Gambar peta tren TML",
+        "Lihat peta perubahan rata-rata TML",
+        "Peta historis tren TML Indonesia",
+        "Peta tren SLR nasional",
+        "Peta laju rata-rata kenaikan muka laut di Indonesia",
+        "Tunjukkan peta tren TML seluruh Indonesia",
+        "Peta tren kenaikan permukaan laut"
       ],
       "responses": [
         "Berikut adalah peta tren tinggi muka laut Indonesia tahun 1993-2023:"
@@ -447,13 +932,26 @@
     {
       "tag": "peta_tren_proyeksi_tml_nasional",
       "patterns": [
-        "Tampilkan peta tren proyeksi tinggi muka laut nasional",
-        "Bagaimana peta tren proyeksi TML 1993 hingga 2023",
-        "Saya ingin melihat peta tren proyeksi TML",
-        "Perlihatkan peta tren proyeksi tinggi muka laut Indonesia"
+        "Tampilkan peta tren proyeksi nasional",
+        "peta tren proyeksi 2025 hingga 2100",
+        "peta tren proyeksi TML",
+        "peta tren prediksi indonesia",
+        "Peta proyeksi perubahan tml",
+        "Bagaimana prediksi tinggi muka laut dimasa depan?",
+        "peta tren proyeksi nasional",
+        "Peta laju proyeksi TML Indonesia",
+        "Peta tren proyeksi rata-rata TML",
+        "Visualisasi tren proyeksi TML nasional",
+        "Gambar peta tren proyeksi TML",
+        "Lihat peta perubahan rata-rata proyeksi TML",
+        "Peta tren proyeksi SLR di Indonesia",
+        "Peta laju rata-rata proyeksi kenaikan muka laut di Indonesia",
+        "Tunjukkan peta tren proyeksi TML seluruh Indonesia",
+        "Peta tren proyeksi kenaikan permukaan laut",
+        "Peta tren TML masa depan"
       ],
       "responses": [
-        "Berikut adalah peta tren proyeksi tinggi muka laut Indonesia tahun 1993-2023:"
+        "Berikut adalah peta tren proyeksi tinggi muka laut Indonesia tahun 2025-2100:"
       ],
       "function": "peta_tren_proyeksi_tml_nasional"
     },
@@ -461,9 +959,22 @@
       "tag": "tren_tml_kabupaten",
       "patterns": [
         "Bagaimana tren TML kabupaten Kupang?",
-        "Tampilkan tren tinggi muka laut kabupaten Rote Ndao",
-        "Apakah TML di kabupaten Sabu Raijua naik?",
-        "Grafik tren kabupaten Belu"
+        "Tampilkan tren Rote Ndao",
+        "Apakah TML di Sabu Raijua naik?",
+        "Grafik tren kabupaten Belu",
+        "laju kenaikan di kabupaten kupang",
+        "perkembangan di rote ndao",
+        "Perubahan TML di Selayar",
+        "Tren TML di Kabupaten Jayapura?",
+        "Bagaimana laju kenaikan di Kabupaten Ende?",
+        "Perkembangan tinggi muka laut Kabupaten Sumba Barat Daya",
+        "Grafik tren TML Kabupaten Lombok Barat",
+        "Apakah TML di Kabupaten Berau meningkat?",
+        "Tren TML Kabupaten C",
+        "Laju kenaikan TML Kabupaten D",
+        "Grafik tren TML Kabupaten E",
+        "Bagaimana TML Kabupaten F berubah?",
+        "Cek tren TML di Kabupaten G"
       ],
       "responses": [
         "Berikut adalah grafik tren kenaikan tinggi muka laut untuk kabupaten tersebut:"
@@ -474,9 +985,22 @@
       "tag": "tren_proyeksi_tml_kabupaten",
       "patterns": [
         "Bagaimana tren proyeksi TML kabupaten Kupang?",
-        "Tampilkan tren proyeksi tinggi muka laut kabupaten Rote Ndao",
-        "Apakah proyeksi TML di kabupaten Sabu Raijua naik?",
-        "Grafik tren proyeksi kabupaten Belu"
+        "Tampilkan tren proyeksi Rote Ndao",
+        "Apakah proyeksi TML di Sabu Raijua naik?",
+        "Grafik tren proyeksi Belu",
+        "prediksi tren di kabupaten kupang",
+        "perkiraan perkembangan di rote ndao",
+        "Tren proyeksi TML di Kabupaten Jayapura?",
+        "Bagaimana laju proyeksi kenaikan di Kabupaten Ende?",
+        "Perkembangan proyeksi tinggi muka laut Kabupaten Sumba Barat Daya",
+        "Grafik tren proyeksi TML Kabupaten Lombok Barat",
+        "Apakah proyeksi TML di Kabupaten Berau meningkat?",
+        "Prediksi tren TML untuk Kabupaten Merauke",
+        "Tren proyeksi TML Kabupaten C",
+        "Laju proyeksi kenaikan TML Kabupaten D",
+        "Grafik tren proyeksi TML Kabupaten E",
+        "Bagaimana proyeksi TML Kabupaten F berubah?",
+        "Cek tren proyeksi TML di Kabupaten G"
       ],
       "responses": [
         "Berikut adalah grafik tren proyeksi kenaikan tinggi muka laut untuk kabupaten tersebut:"
@@ -487,9 +1011,22 @@
       "tag": "tren_tml_kecamatan",
       "patterns": [
         "Bagaimana tren TML di kecamatan Rote Tengah?",
-        "Tampilkan tren tinggi muka laut kecamatan Fatuleu",
-        "Apakah ada tren kenaikan TML di kecamatan Rindi?",
-        "Grafik tren kecamatan Siomeda"
+        "Tampilkan tren Fatuleu",
+        "tren kenaikan TML di Rindi",
+        "Grafik tren kecamatan Siomeda",
+        "tren di rote tengah",
+        "perkembangan tml fatuleu",
+        "Bagaimana perkembangan TML di Kecamatan Pantai Baru?",
+        "Tunjukkan laju TML Kecamatan Landu Leko",
+        "Tren historis TML Kecamatan Lobalain",
+        "Apakah Kecamatan Ndao Nusi mengalami kenaikan TML?",
+        "Grafik tren TML di Kecamatan Rote Barat Laut",
+        "Perubahan TML di Kecamatan Semau",
+        "Tren TML Kecamatan A",
+        "Laju kenaikan TML Kecamatan B",
+        "Grafik tren TML Kecamatan C",
+        "Bagaimana TML Kecamatan D berubah?",
+        "Cek tren TML di Kecamatan E"
       ],
       "responses": [
         "Berikut adalah grafik tren tinggi muka laut untuk kecamatan tersebut:"
@@ -499,10 +1036,23 @@
     {
       "tag": "tren_proyeksi_tml_kecamatan",
       "patterns": [
-        "Bagaimana tren proyeksiTML di kecamatan Rote Tengah?",
-        "Tampilkan tren proyeksitinggi muka laut kecamatan Fatuleu",
-        "Apakah ada tren proyeksi kenaikan TML di kecamatan Rindi?",
-        "Grafik tren proyeksi kecamatan Siomeda"
+        "Bagaimana tren proyeksi TML di kecamatan Rote Tengah?",
+        "Tampilkan tren proyeksi Fatuleu",
+        "proyeksi kenaikan di Rindi",
+        "Grafik tren proyeksi kecamatan Siomeda",
+        "tren proyeksi rote tengah",
+        "perkiraan perkembangan tml fatuleu",
+        "Bagaimana proyeksi perkembangan TML di Kecamatan Pantai Baru?",
+        "Tunjukkan laju proyeksi TML Kecamatan Landu Leko",
+        "Tren proyeksi TML Kecamatan Lobalain",
+        "Apakah Kecamatan Ndao Nusi diproyeksikan mengalami kenaikan TML?",
+        "Grafik tren proyeksi TML di Kecamatan Rote Barat Laut",
+        "Prediksi perubahan TML di Kecamatan Semau",
+        "Tren proyeksi TML Kecamatan A",
+        "Laju proyeksi kenaikan TML Kecamatan B",
+        "Grafik tren proyeksi TML Kecamatan C",
+        "Bagaimana proyeksi TML Kecamatan D berubah?",
+        "Cek tren proyeksi TML di Kecamatan E"
       ],
       "responses": [
         "Berikut adalah grafik proyeksi tren tinggi muka laut untuk kecamatan tersebut:"
@@ -513,8 +1063,22 @@
       "tag": "grafik_tahunan_kabupaten",
       "patterns": [
         "Tampilkan grafik TML kabupaten Kupang tahun 2020",
-        "Bagaimana kondisi TML kabupaten Belu tahun 1999",
-        "Grafik tinggi muka laut kabupaten Rote Ndao tahun 2005"
+        "kondisi kabupaten Belu 1999",
+        "Grafik Rote Ndao tahun 2005",
+        "TML Kupang 2018",
+        "data per desa di kabupaten belu 2010",
+        "kondisi desa-desa di rote ndao 2015",
+        "TML Kabupaten Lombok Timur tahun 2008",
+        "Grafik TML Kabupaten Sumba Timur 2012",
+        "Data TML Kabupaten Manggarai tahun 2001",
+        "Kondisi TML Kabupaten Ende 2019",
+        "Tampilkan grafik TML di Kabupaten Malaka 2000",
+        "Bagaimana TML per desa di Kabupaten Timor Tengah Utara 2010?",
+        "Grafik TML Kabupaten A tahun 2007",
+        "Data TML per desa di Kabupaten B 2009",
+        "Kondisi TML Kabupaten C 2014",
+        "TML Kabupaten D di tahun 2021",
+        "Tampilkan grafik TML Kabupaten E 2002"
       ],
       "responses": [
         "Berikut grafik tinggi muka laut per desa dalam kabupaten yang dimaksud:"
@@ -524,9 +1088,23 @@
     {
       "tag": "grafik_proyeksi_tahunan_kabupaten",
       "patterns": [
-        "Tampilkan grafik proyeksi TML kabupaten Kupang tahun 2020",
-        "Bagaimana kondisi proyeksi TML kabupaten Belu tahun 1999",
-        "Grafik proyeksi tinggi muka laut kabupaten Rote Ndao tahun 2005"
+        "grafik proyeksi TML kabupaten Kupang 2050",
+        "prediksi kabupaten Belu 2099",
+        "Grafik prediksi Rote Ndao 2045",
+        "Proyeksi TML Kupang 2070",
+        "proyeksi 2060 untuk kabupaten rote ndao",
+        "data per desa di belu 2080",
+        "Proyeksi TML Kabupaten Lombok Timur tahun 2060",
+        "Grafik proyeksi TML Kabupaten Sumba Timur 2085",
+        "Data proyeksi TML Kabupaten Manggarai tahun 2040",
+        "Prediksi TML Kabupaten Ende 2095",
+        "Tampilkan grafik proyeksi TML di Kabupaten Malaka 2055",
+        "Bagaimana proyeksi TML per desa di Kabupaten Timor Tengah Utara 2075?",
+        "Grafik proyeksi TML Kabupaten A tahun 2050",
+        "Data proyeksi TML per desa di Kabupaten B 2090",
+        "Proyeksi TML Kabupaten C 2080",
+        "Prediksi TML Kabupaten D di tahun 2077",
+        "Tampilkan grafik proyeksi TML Kabupaten E 2062"
       ],
       "responses": [
         "Berikut grafik proyeksi tinggi muka laut per desa dalam kabupaten yang dimaksud:"
@@ -536,9 +1114,23 @@
     {
       "tag": "grafik_tahunan_kecamatan",
       "patterns": [
-        "Tampilkan grafik TML kecamatan Rindi tahun 2015",
-        "Bagaimana kondisi TML kecamatan Fatuleu tahun 2023",
-        "Grafik tinggi muka laut kecamatan Tada tahun 1995"
+        "grafik TML kecamatan Rindi 2015",
+        "kondisi kecamatan Fatuleu 2023",
+        "Grafik Tada tahun 1995",
+        "TML Rindi 2010",
+        "data per desa di kecamatan fatuleu 2000",
+        "kondisi desa-desa di tada 2005",
+        "TML Kecamatan Lobalain tahun 2018",
+        "Grafik TML Kecamatan Pantai Baru 2003",
+        "Data TML Kecamatan Landu Leko tahun 2007",
+        "Kondisi TML Kecamatan Ndao Nusi 2014",
+        "Tampilkan grafik TML di Kecamatan Rote Barat Daya 2009",
+        "Bagaimana TML per desa di Kecamatan Rote Barat Laut 2011?",
+        "Grafik TML Kecamatan A tahun 2006",
+        "Data TML per desa di Kecamatan B 2019",
+        "Kondisi TML Kecamatan C 2004",
+        "TML Kecamatan D di tahun 2017",
+        "Tampilkan grafik TML Kecamatan E 2008"
       ],
       "responses": [
         "Berikut grafik tinggi muka laut per desa dalam kecamatan yang dimaksud:"
@@ -548,9 +1140,23 @@
     {
       "tag": "grafik_proyeksi_tahunan_kecamatan",
       "patterns": [
-        "Tampilkan grafik proyeksi TML kecamatan Rindi tahun 2015",
-        "Bagaimana kondisi proyeksi TML kecamatan Fatuleu tahun 2023",
-        "Grafik proyeksi tinggi muka laut kecamatan Tada tahun 1995"
+        "grafik proyeksi TML kecamatan Rindi 2030",
+        "prediksi kecamatan Fatuleu 2053",
+        "Grafik prediksi Tada 2100",
+        "Proyeksi TML Rindi 2040",
+        "proyeksi 2070 untuk kecamatan fatuleu",
+        "data per desa di tada 2080",
+        "Proyeksi TML Kecamatan Lobalain tahun 2050",
+        "Grafik proyeksi TML Kecamatan Pantai Baru 2065",
+        "Data proyeksi TML Kecamatan Landu Leko tahun 2075",
+        "Prediksi TML Kecamatan Ndao Nusi 2090",
+        "Tampilkan grafik proyeksi TML di Kecamatan Rote Barat Daya 2035",
+        "Bagaimana proyeksi TML per desa di Kecamatan Rote Barat Laut 2060?",
+        "Grafik proyeksi TML Kecamatan A tahun 2042",
+        "Data proyeksi TML per desa di Kecamatan B 2083",
+        "Proyeksi TML Kecamatan C 2061",
+        "Prediksi TML Kecamatan D di tahun 2091",
+        "Tampilkan grafik proyeksi TML Kecamatan E 2058"
       ],
       "responses": [
         "Berikut grafik proyeksi tinggi muka laut per desa dalam kecamatan yang dimaksud:"
@@ -564,7 +1170,22 @@
         "Apa sumber data TML?",
         "Apakah informasi ini dari BMKG atau IPCC?",
         "Sumber data apa yang digunakan?",
-        "Data apa yang digunakan untuk membuat samudra-ai"
+        "Data apa yang digunakan untuk membuat samudra-ai",
+        "Data TML ini dari mana?",
+        "Siapa penyedia data tinggi muka laut?",
+        "Informasi ini berdasarkan data apa?",
+        "Sumber data proyeksi TML?",
+        "Data yang dipakai untuk chatbot ini apa saja?",
+        "Dasar data Samudra AI",
+        "Referensi data TML",
+        "Bagaimana data TML dikumpulkan?",
+        "Akurasi sumber data TML",
+        "Dari mana data historis TML diperoleh?",
+        "Bagaimana data untuk proyeksi TML dikumpulkan?",
+        "Apakah data TML ini terverifikasi?",
+        "Sumber informasi TML",
+        "Data TML ini valid dari mana?",
+        "Siapa yang mengumpulkan data TML?"
       ],
       "responses": [
         "Data tinggi muka laut berasal dari observasi satelit dan reanalysis/model dari Copernicus Marine Services (CMEMS) yang digunakan sebagai data reference atau data ground truth. Sedangkan untuk data proyeksi, digunakan model iklim global (GCM) CMIP6 dengan skenario iklim SSP585 dari Earth System Grid federation (ESGF) dan telah diproses lebih lanjut menggunakan model pembelajaran mesin tingkat lanjut (deep learning)."
@@ -572,7 +1193,28 @@
     },
     {
       "tag": "fallback",
-      "patterns": ["asdfgh", "121384fidfi9", "----", "apapun yang tidak dikenali"],
+      "patterns": [
+        "asdfgh",
+        "121384fidfi9",
+        "----",
+        "apapun yang tidak dikenali",
+        "Tidak paham",
+        "Apa maksudnya?",
+        "Saya tidak mengerti",
+        "Bisakah diulang?",
+        "Tolong jelaskan lagi",
+        "Bingung",
+        "Tidak ngerti",
+        "Maksudnya apa?",
+        "Nggak mudeng",
+        "Bisa lebih jelas?",
+        "Info tidak ditemukan",
+        "Saya tidak tahu itu",
+        "Kata kunci tidak ditemukan",
+        "Tidak ada informasi untuk itu",
+        "Pertanyaan tidak valid",
+        "Coba lagi"
+      ],
       "responses": [
         "Maaf, saya belum bisa memahami pertanyaan tersebut. Bisa dicoba dengan kata lain atau pertanyaan seputar tinggi muka laut?"
       ]
@@ -584,7 +1226,22 @@
         "Sampai jumpa",
         "Selamat tinggal",
         "Dadah",
-        "Goodbye"
+        "Goodbye",
+        "Terima kasih banyak",
+        "Makasih",
+        "Sampai ketemu lagi",
+        "Bye",
+        "Selesai",
+        "Sampai nanti",
+        "Sudah selesai",
+        "Cukup",
+        "Good bye",
+        "Senang berbicara dengan Anda",
+        "Okay, terima kasih",
+        "Baiklah",
+        "Senang berinteraksi",
+        "Saya pergi dulu",
+        "Sampai bertemu"
       ],
       "responses": [
         "Terima kasih kembali! Jangan ragu untuk bertanya lagi yaa.",
